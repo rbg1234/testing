@@ -6,8 +6,10 @@ const Alert = props => {
   return (
     <div>
       Hello Ryan
+
+      WHAT UP GGGGGUNIT
       </div>
-    
+  
     // <div className={`alert alert-${props.type || "success"}`} role="alert">
     //   {props.children}
     // </div>
